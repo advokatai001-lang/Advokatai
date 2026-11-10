@@ -1,0 +1,6 @@
+{
+  "name": "HUQUQ AI — Intelligent Legal Assistant of Uzbekistan",
+  "description": "O‘zbekiston Respublikasi qonunchiligining professional sun'iy intellekt platformasi: advokatlik tahlili, LexUZ bilimlar bazasi, qonun moddalari auditi, sud simulyatsiyasi va uch tildagi intellektual ovoz.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
